@@ -1,0 +1,2 @@
+C:\Users\Erbolchik\source\repos\Game15\obj\Debug\Game15.csprojAssemblyReference.cache
+C:\Users\Erbolchik\source\repos\Game15\obj\Debug\Game15.csproj.CoreCompileInputs.cache
